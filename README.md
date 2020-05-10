@@ -6,6 +6,5 @@ React app was made with react-hooks by this tutorial: https://www.freecodecamp.o
 
 * React
 * React hooks
-* React context api
 * Fetch api
 
